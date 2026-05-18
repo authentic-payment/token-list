@@ -2,7 +2,7 @@
   "name": "Assets curated by Soroswap Protocol",
   "provider": "Soroswap Protocol",
   "description": "The list of assets curated by Soroswap Protocol",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "feedback": "https://github.com/soroswap/token-list",
   "network": "mainnet",
   "assets": [
@@ -337,6 +337,16 @@
       "org": "Stronghold",
       "domain": "stronghold.co",
       "icon": "https://ipfs.io/ipfs/bafkreiafy5nqmyfy5t3ay5tgmy5wnzkqlyqkir2owjq4jqwcxklne4xqcm",
+      "decimals": 7
+    },
+    {
+      "code": "MBC",
+      "issuer": "GBPE7L6AMFQL2IGCVD36VVWZR5DDLINLETF2QMBAJG7ZA65MK7WI4BPK",
+      "contract": "CCUMQ5V3I3V3TQ4B2VNTK7JZNZWTGZBWLIBY6WSXCKJXTR74ZGN3XD5V",
+      "name": "Monarch Balanced Covenant",
+      "org": "Authentic-Payment",
+      "domain": "authentic-payment.com",
+      "icon": "https://authentic-payment.com/wp-content/uploads/2025/08/MBC-logo.png",
       "decimals": 7
     },
     {
