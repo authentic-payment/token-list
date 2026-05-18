@@ -2,7 +2,7 @@
   "name": "Assets curated by Soroswap Protocol",
   "provider": "Soroswap Protocol",
   "description": "The list of assets curated by Soroswap Protocol",
-  "version": "1.3.7",
+  "version": "1.4.3",
   "feedback": "https://github.com/soroswap/token-list",
   "network": "mainnet",
   "assets": [
@@ -44,6 +44,16 @@
       "org": "Silver Hen Tech",
       "domain": "xlmeme.com",
       "icon": "https://xlmeme.com/cdn-cgi/imagedelivery/BMsStEZme-xi9eCyEb_01g/a2b0f7e2-09ac-4a89-086e-5e928f57ab00/public",
+      "decimals": 7
+    },
+    {
+      "code": "ACT",
+      "issuer": "GAHHULDPDVGB5WS5PH7BCGLJ7ZHECDBIIMKB62UPVDUOCHNFL7HX3FS7",
+      "contract": "CAU7TR4L52CSCYOLOPXPJJ7T6EMEXTEE4XKRH2ASY23EFYEMU5WUFYP2",
+      "name": "APAY Community Token",
+      "org": "Authentic-Payment",
+      "domain": "authentic-payment.com",
+      "icon": "https://authentic-payment.com/wp-content/uploads/2025/10/ACTlogoORGnoBG-1.png",
       "decimals": 7
     },
     {
@@ -107,6 +117,15 @@
       "decimals": 7
     },
     {
+      "name": "LIBRE",
+      "code": "LIBRE",
+      "issuer": "GAYCCWKECNGDRHYU3UTREBD2XLC3CUQN6FV22TKM4WCQER3IWR7TF5CY",
+      "contract": "CBEM2CAIYLM3HBOPU5HLQL7V5BUAKM3N77DYQKX4FNHTQLQUUD2ZFBOX",
+      "org": "LibreTradingEcosystem",
+      "icon": "https://librequidity.org/LIBRE.png",
+      "decimals": 7
+    },
+    {
       "name": "ETH by Ultra Capital",
       "code": "ETH",
       "issuer": "GBFXOHVAS43OIWNIO7XLRJAHT3BICFEIKOJLZVXNT572MISM4CMGSOCC",
@@ -125,6 +144,13 @@
       "domain": "sslx.sl8.online",
       "icon": "https://ipfs.io/ipfs/bafkreiecqakv3lqychk6wwzccywywvtwjag3vtehzj4m3qilcj7735cfva",
       "decimals": 7
+    },
+    {
+      "name": "deJTRSY",
+      "contract": "CBI7UCH5KGSVQRO5H4SUCZUTZABCITZLRHQQZTWL2TK4RZ72TAR6IHRV",
+      "org": "Centrifuge",
+      "icon": "https://centrifuge.mypinata.cloud/ipfs/bafkreieracb5e57bhg7bphd7sp4hxf3yhbm3cxinst3o5mennfosagkxuu",
+      "decimals": 18
     },
     {
       "code": "XRF",
@@ -164,6 +190,16 @@
       "org": "unknown",
       "domain": "stellarport.io",
       "icon": "https://ipfs.io/ipfs/bafkreiheegvgfzbks6tacnlw24ub2frnr7j32rkzamieifhi2avljcly6m",
+      "decimals": 7
+    },
+    {
+      "name": "Ben Lambo",
+      "code": "BEN",
+      "issuer": "GB3RF5WN3FDIMORX4A7PRXVNGQXSQAJRBCILM4EGQDRHDXK4XYUDR22J",
+      "contract": "CBPZITKDNHAMPX25OVSF7BCBT3BCFXSPR3WXER5E3T77F46NRXHKYFZC",
+      "org": "Lumeme LLC",
+      "domain": "lu.meme",
+      "icon": "https://lu.meme/_next/image?url=https%3A%2F%2Fcdn.lu.meme%2Fprod%2Fmeme%2Fmeme-ViLdd0fiBBIhMfNNcWD9u3wBnUUDmrWg.jpg&w=3840&q=75",
       "decimals": 7
     },
     {
@@ -247,6 +283,23 @@
       "decimals": 7
     },
     {
+      "name": "deJAAA",
+      "contract": "CC64WBDGS6QQP22QTTIACYIXT3WF7BBQEYOQPLTP7GTKYY7PZ74QYGSL",
+      "org": "Centrifuge",
+      "icon": "https://centrifuge.mypinata.cloud/ipfs/bafkreifp5ww5lpbgrny36oxgzg2kjw2226lmj2vmekp4nqemm5ewhhtmwi",
+      "decimals": 18
+    },
+    {
+      "name": "PYUSD",
+      "code": "PYUSD",
+      "issuer": "GDQE7IXJ4HUHV6RQHIUPRJSEZE4DRS5WY577O2FY6YQ5LVWZ7JZTU2V5",
+      "contract": "CCCRWH6Q3FNP3I2I57BDLM5AFAT7O6OF6GKQOC6SSJNDAVRZ57SPHGU2",
+      "org": "www.paxos.com",
+      "domain": "token-metadata.paxos.com",
+      "icon": "https://424565.fs1.hubspotusercontent-na1.net/hubfs/424565/PYUSDLOGO.png",
+      "decimals": 7
+    },
+    {
       "code": "ARS",
       "issuer": "GCYE7C77EB5AWAA25R5XMWNI2EDOKTTFTTPZKM2SR5DI4B4WFD52DARS",
       "contract": "CCD6H4LBTHAPY3NGEE6TLLRUSPJGX4K5XI2J6E4MUNDB5TNXEKC23H5B",
@@ -304,6 +357,16 @@
       "org": "Blend Protocol",
       "domain": "blend.capital",
       "icon": "https://stellar.myfilebase.com/ipfs/QmaDc2ArxQom1bFkE7JsqqZ2VdThvLV2GTRimaeJcpxU8L",
+      "decimals": 7
+    },
+    {
+      "name": "DAWG",
+      "code": "DAWG",
+      "issuer": "GBVYKIM4QGW7NK3Q5S76GWMZMLAWYB6FB43JQ4J7ZOXHAA3LEZZGYHSD",
+      "contract": "CD3X4GOWBPDU57NIPMPEMH7LFNAMBDTY5SKJCHLY7IDDWJQVUTU7CBBK",
+      "org": "LibreTradingEcosystem",
+      "domain": "librequidity.org",
+      "icon": "https://librequidity.org/DAWG.png",
       "decimals": 7
     },
     {
